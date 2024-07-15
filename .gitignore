@@ -1,0 +1,12 @@
+task3/venv/lib/*
+task3/venv/bin/Activate.ps1
+task3/venv/bin/activate
+task3/venv/bin/activate.csh
+task3/venv/bin/activate.fish
+task3/venv/bin/pip
+task3/venv/bin/pip3
+task3/venv/bin/pip3.12
+task3/venv/bin/python
+task3/venv/bin/python3
+task3/venv/bin/python3.12
+.DS_Store
